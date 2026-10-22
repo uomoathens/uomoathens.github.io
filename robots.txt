@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uomoathens.github.io/sitemap.xml

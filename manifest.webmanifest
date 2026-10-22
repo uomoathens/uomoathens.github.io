@@ -1,0 +1,16 @@
+{
+  "name": "Dimitrios Sargiotis",
+  "short_name": "Sargiotis",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#151617",
+  "theme_color": "#151617",
+  "icons": [
+    {
+      "src": "images/fasvico.png",
+      "sizes": "103x101",
+      "type": "image/png"
+    }
+  ]
+}
